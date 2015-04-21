@@ -15,8 +15,10 @@ request('http://example.com', function (error, response, body) {
       else {
 
         walkers.walk(dom, true, function(node){
-	    	//Do something with node
-	  	})
+          //Do something with node
+        }, function(){
+          //Do something when finished walking
+        })
 
       }
     });

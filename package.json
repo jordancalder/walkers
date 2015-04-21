@@ -1,7 +1,7 @@
 {
   "name": "walkers",
   "description": "DOM traversal using htmlparser2.",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "homepage": "https://github.com/jordancalder/walkers",
   "author": {
     "name": "Sterling Jordan Calder",
