@@ -1,7 +1,7 @@
 {
   "name": "walkers",
-  "description": "DOM traversal using htmlparser2.",
-  "version": "0.1.3",
+  "description": "Recursive DOM traversal using htmlparser2.",
+  "version": "0.1.4",
   "homepage": "https://github.com/jordancalder/walkers",
   "author": {
     "name": "Sterling Jordan Calder",
@@ -29,7 +29,9 @@
     "DOM",
     "traversal",
     "tree",
-    "walk"
+    "walk",
+    "recursive",
+    "html"
   ],
   "dependencies": {
     "domhandler": "^2.3.0",
